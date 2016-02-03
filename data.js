@@ -16,6 +16,7 @@ var nicknames = require('./nicknames.json')
 var THRESHOLD = 0.87
 var FALLBACK_PROB = 0
 
+console.log('id,name,lname_prob,fname_prob,total_prob,link,total_receipts,total_disbursements')
 
 function scoreFirstName(n) {
   var fnameProb = FALLBACK_PROB
@@ -93,6 +94,17 @@ var weightedData = db.map(function(p){
     // probabilities should be zero.
   }
 
+  console.log(
+    p.can_id + ','
+    + '"' + p.can_nam + '",'
+    +  lnameProb + ','
+    +  fnameProb + ','
+    +  fnameProb + ','
+    +  (fnameProb+lnameProb)/2.0 + ','
+    +  p.lin_ima + ','
+    + p.tot_rec + ','
+    + p.tot_dis
+  )
   return {
     name: p.can_nam,
     fnameProb: fnameProb,
@@ -102,9 +114,10 @@ var weightedData = db.map(function(p){
     id: p.can_id
   }
 })
-
+/*
 var funnyNames = weightedData.filter(function(el) {
   return el.probability < THRESHOLD
 })
 
 console.log(JSON.stringify(funnyNames, null, '\t'))
+*/
