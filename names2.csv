@@ -1,4 +1,4 @@
-id,name,lname_prob,fname_prob,total_prob,link,total_receipts,total_disbursements
+id,name,lname_prob,fname_prob,fname_prob2,total_prob,link,total_receipts,total_disbursements
 P60013794,"A WANDRLUSTR, DOT COM",0.8500000000000001,1,1,0.925,http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60013794&tabIndex=1,,
 P60016268,"A$$, DAT PHAT",0.6499999999999999,0.8933333333333333,0.8933333333333333,0.7716666666666666,http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60016268&tabIndex=1,,
 P60010535,"AAA, TRUEPROSNC",0.9166666666666666,0.8761904761904762,0.8761904761904762,0.8964285714285714,http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60010535&tabIndex=1,,
