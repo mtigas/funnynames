@@ -96,14 +96,13 @@ var weightedData = db.map(function(p){
 
   console.log(
     p.can_id + ','
-    + '"' + p.can_nam.replace(/"/g, '""') + '",'
+    + '"' + p.can_nam.replace(/"/g, '""').replace(/[\n\t]/g, '') + '",'
     +  lnameProb + ','
-    +  fnameProb + ','
     +  fnameProb + ','
     +  (fnameProb+lnameProb)/2.0 + ','
     +  p.lin_ima + ','
-    + p.tot_rec + ','
-    + p.tot_dis
+    + p.tot_rec.replace(/[\n,\$]/g, '')  + ','
+    + p.tot_dis.replace(/[\n,\$]/g, '')
   )
   return {
     name: p.can_nam,
