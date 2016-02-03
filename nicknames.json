@@ -1,0 +1,2260 @@
+{
+	"ABBIE": [
+		"ABIGAIL"
+	],
+	"ABIGAIL": [
+		"ABBIE",
+		"ABBY",
+		"GAIL"
+	],
+	"ABBY": [
+		"ABIGAIL"
+	],
+	"ABE": [
+		"ABRAHAM",
+		"ABRAM"
+	],
+	"ABRAHAM": [
+		"ABE"
+	],
+	"ABRAM": [
+		"ABE"
+	],
+	"ADA": [
+		"ADALINE"
+	],
+	"ADALINE": [
+		"ADA",
+		"ADDY"
+	],
+	"ADDY": [
+		"ADALINE"
+	],
+	"AGGY": [
+		"AGATHA",
+		"AGNES",
+		"AUGUSTA",
+		"AUGUSTINA"
+	],
+	"AGATHA": [
+		"AGGY"
+	],
+	"AGNES": [
+		"AGGY"
+	],
+	"AUGUSTA": [
+		"AGGY"
+	],
+	"AUGUSTINA": [
+		"AGGY",
+		"TINA"
+	],
+	"AL": [
+		"ALAN",
+		"ALBERT",
+		"ALDO",
+		"ALEXANDER",
+		"ALFONSE",
+		"ALFRED",
+		"ALLAN",
+		"ALLEN",
+		"ALONZO"
+	],
+	"ALAN": [
+		"AL"
+	],
+	"ALBERT": [
+		"AL",
+		"BERT"
+	],
+	"ALDO": [
+		"AL"
+	],
+	"ALEXANDER": [
+		"AL",
+		"ALEX"
+	],
+	"ALFONSE": [
+		"AL"
+	],
+	"ALFRED": [
+		"AL",
+		"FRED"
+	],
+	"ALLAN": [
+		"AL"
+	],
+	"ALLEN": [
+		"AL"
+	],
+	"ALONZO": [
+		"AL"
+	],
+	"ALEX": [
+		"ALEXANDER",
+		"ALEXANDRA"
+	],
+	"ALEXANDRA": [
+		"ALEX"
+	],
+	"ALLIE": [
+		"ALICE",
+		"ALICIA",
+		"ALMENA"
+	],
+	"ALICE": [
+		"ALLIE"
+	],
+	"ALICIA": [
+		"ALLIE"
+	],
+	"ALMENA": [
+		"ALLIE"
+	],
+	"ANDY": [
+		"ANDERSON",
+		"ANDREW"
+	],
+	"ANDERSON": [
+		"ANDY"
+	],
+	"ANDREW": [
+		"ANDY",
+		"DREW"
+	],
+	"ANN": [
+		"ANTOINETTE",
+		"ANTONIA",
+		"ROSAENN",
+		"ROSAENNA",
+		"ROXANNE",
+		"ROXANNA",
+		"ANNIE"
+	],
+	"ANTOINETTE": [
+		"ANN"
+	],
+	"ANTONIA": [
+		"ANN"
+	],
+	"ROSAENN": [
+		"ANN"
+	],
+	"ROSAENNA": [
+		"ANN"
+	],
+	"ROXANNE": [
+		"ANN",
+		"ROSE"
+	],
+	"ROXANNA": [
+		"ANN",
+		"ROSE"
+	],
+	"ANNIE": [
+		"ANN",
+		"ANNE"
+	],
+	"ANNE": [
+		"ANNIE"
+	],
+	"ARA": [
+		"ARABELLA",
+		"ARABELLE"
+	],
+	"ARABELLA": [
+		"ARA",
+		"BELLA",
+		"BELLE"
+	],
+	"ARABELLE": [
+		"ARA"
+	],
+	"ARCHIE": [
+		"ARCHIBALD"
+	],
+	"ARCHIBALD": [
+		"ARCHIE"
+	],
+	"ARLY": [
+		"ARLENE"
+	],
+	"ARLENE": [
+		"ARLY",
+		"LENA"
+	],
+	"ART": [
+		"ARTHUR"
+	],
+	"ARTHUR": [
+		"ART"
+	],
+	"BABS": [
+		"BARBARA"
+	],
+	"BARBARA": [
+		"BABS",
+		"BARBIE",
+		"BOBBIE"
+	],
+	"BARBIE": [
+		"BARBARA"
+	],
+	"BARNEY": [
+		"BARNABAS",
+		"BERNARD"
+	],
+	"BARNABAS": [
+		"BARNEY"
+	],
+	"BERNARD": [
+		"BARNEY",
+		"BERNY"
+	],
+	"BART": [
+		"BARTHOLOMEW"
+	],
+	"BARTHOLOMEW": [
+		"BART"
+	],
+	"BEA": [
+		"BEATRICE"
+	],
+	"BEATRICE": [
+		"BEA",
+		"TRIXIE"
+	],
+	"BECCA": [
+		"REBECCA"
+	],
+	"REBECCA": [
+		"BECCA",
+		"BECKY",
+		"REBA"
+	],
+	"BECKY": [
+		"REBECCA"
+	],
+	"BELLA": [
+		"ARABELLA",
+		"ISABELLA",
+		"ROSABELLA"
+	],
+	"ISABELLA": [
+		"BELLA",
+		"ISSY"
+	],
+	"ROSABELLA": [
+		"BELLA",
+		"ROSE",
+		"ROZ"
+	],
+	"BELLE": [
+		"ARABELLA",
+		"BELINDA",
+		"ISABEL",
+		"ISABELLE",
+		"ROSABEL"
+	],
+	"BELINDA": [
+		"BELLE",
+		"LINDA"
+	],
+	"ISABEL": [
+		"BELLE",
+		"ISSY"
+	],
+	"ISABELLE": [
+		"BELLE",
+		"ISSY"
+	],
+	"ROSABEL": [
+		"BELLE",
+		"ROSE",
+		"ROZ"
+	],
+	"BEN": [
+		"BENEDICT",
+		"BENJAMIN"
+	],
+	"BENEDICT": [
+		"BEN",
+		"BENNIE"
+	],
+	"BENJAMIN": [
+		"BEN",
+		"BENJY",
+		"JAMIE"
+	],
+	"BENJY": [
+		"BENJAMIN"
+	],
+	"BENNIE": [
+		"BENEDICT"
+	],
+	"BERNY": [
+		"BERNARD"
+	],
+	"BERT": [
+		"ALBERT",
+		"DELBERT",
+		"ELBERT",
+		"GILBERT",
+		"HERBERT",
+		"HUBERT",
+		"NORBERT"
+	],
+	"DELBERT": [
+		"BERT",
+		"DEL"
+	],
+	"ELBERT": [
+		"BERT"
+	],
+	"GILBERT": [
+		"BERT",
+		"GIL",
+		"WILBER"
+	],
+	"HERBERT": [
+		"BERT",
+		"HERB"
+	],
+	"HUBERT": [
+		"BERT",
+		"HUGH"
+	],
+	"NORBERT": [
+		"BERT"
+	],
+	"BESS": [
+		"ELIZABETH"
+	],
+	"ELIZABETH": [
+		"BESS",
+		"BETH",
+		"BETSY",
+		"BETTY",
+		"LIBBY",
+		"LIZ",
+		"LIZZIE"
+	],
+	"BETH": [
+		"ELIZABETH"
+	],
+	"BETSY": [
+		"ELIZABETH"
+	],
+	"BETTY": [
+		"ELIZABETH"
+	],
+	"BILL": [
+		"ROBERT",
+		"WILLIAM"
+	],
+	"ROBERT": [
+		"BILL",
+		"BILLY",
+		"BOB",
+		"BOBBY",
+		"ROB",
+		"ROBBY"
+	],
+	"WILLIAM": [
+		"BILL",
+		"BILLY",
+		"WILL",
+		"WILLIE"
+	],
+	"BILLY": [
+		"ROBERT",
+		"WILLIAM"
+	],
+	"BIRDIE": [
+		"BERTHA",
+		"ROBERTA"
+	],
+	"BERTHA": [
+		"BIRDIE"
+	],
+	"ROBERTA": [
+		"BIRDIE",
+		"BIRTIE",
+		"BOBBIE"
+	],
+	"BIRTIE": [
+		"ROBERTA"
+	],
+	"BOB": [
+		"ROBERT"
+	],
+	"BOBBIE": [
+		"BARBARA",
+		"ROBERTA"
+	],
+	"BOBBY": [
+		"ROBERT"
+	],
+	"BRAD": [
+		"BRADFORD"
+	],
+	"BRADFORD": [
+		"BRAD"
+	],
+	"BRODY": [
+		"BRODERICK"
+	],
+	"BRODERICK": [
+		"BRODY",
+		"RICKY",
+		"ROD"
+	],
+	"CAL": [
+		"CALVIN"
+	],
+	"CALVIN": [
+		"CAL"
+	],
+	"CAMMIE": [
+		"CAMILE"
+	],
+	"CAMILE": [
+		"CAMMIE"
+	],
+	"CARL": [
+		"CHARLES"
+	],
+	"CHARLES": [
+		"CARL",
+		"CHARLIE",
+		"CHUCK"
+	],
+	"CAROL": [
+		"CAROLANN",
+		"CAROLINE"
+	],
+	"CAROLANN": [
+		"CAROL"
+	],
+	"CAROLINE": [
+		"CAROL",
+		"CASSIE",
+		"LYNN"
+	],
+	"CASSIE": [
+		"CAROLINE",
+		"CASSANDRA",
+		"CATHERINE",
+		"CATHLEEN"
+	],
+	"CASSANDRA": [
+		"CASSIE",
+		"SANDRA",
+		"SANDY"
+	],
+	"CATHERINE": [
+		"CASSIE",
+		"CATHY"
+	],
+	"CATHLEEN": [
+		"CASSIE",
+		"CATHY",
+		"LENA"
+	],
+	"CATHY": [
+		"CATHERINE",
+		"CATHLEEN"
+	],
+	"CHARLIE": [
+		"CHARLES"
+	],
+	"CHET": [
+		"CHESTER"
+	],
+	"CHESTER": [
+		"CHET"
+	],
+	"CHRIS": [
+		"CHRISTA",
+		"CHRISTIAN",
+		"CHRISTINA",
+		"CHRISTINE",
+		"CHRISTOPHER",
+		"KRISTEN",
+		"KRISTIN",
+		"KRISTY"
+	],
+	"CHRISTA": [
+		"CHRIS"
+	],
+	"CHRISTIAN": [
+		"CHRIS"
+	],
+	"CHRISTINA": [
+		"CHRIS",
+		"TINA"
+	],
+	"CHRISTINE": [
+		"CHRIS"
+	],
+	"CHRISTOPHER": [
+		"CHRIS"
+	],
+	"KRISTEN": [
+		"CHRIS"
+	],
+	"KRISTIN": [
+		"CHRIS"
+	],
+	"KRISTY": [
+		"CHRIS"
+	],
+	"CHUCK": [
+		"CHARLES"
+	],
+	"CINDY": [
+		"CINDERLLA",
+		"CYNTHIA"
+	],
+	"CINDERLLA": [
+		"CINDY"
+	],
+	"CYNTHIA": [
+		"CINDY"
+	],
+	"CLARA": [
+		"CLARISSA"
+	],
+	"CLARISSA": [
+		"CLARA"
+	],
+	"CLIFF": [
+		"CLIFFORD",
+		"CLIFTON"
+	],
+	"CLIFFORD": [
+		"CLIFF"
+	],
+	"CLIFTON": [
+		"CLIFF"
+	],
+	"CONNIE": [
+		"CONSTANCE"
+	],
+	"CONSTANCE": [
+		"CONNIE"
+	],
+	"CRISSY": [
+		"CHRINTINA",
+		"CHRINTINE"
+	],
+	"CHRINTINA": [
+		"CRISSY"
+	],
+	"CHRINTINE": [
+		"CRISSY"
+	],
+	"CURT": [
+		"CURTIS"
+	],
+	"CURTIS": [
+		"CURT"
+	],
+	"CY": [
+		"CYRUS"
+	],
+	"CYRUS": [
+		"CY"
+	],
+	"DAN": [
+		"DANIEL"
+	],
+	"DANIEL": [
+		"DAN",
+		"DANNY"
+	],
+	"DANNY": [
+		"DANIEL"
+	],
+	"DAVE": [
+		"DAVID"
+	],
+	"DAVID": [
+		"DAVE",
+		"DAVEY"
+	],
+	"DAVEY": [
+		"DAVID"
+	],
+	"DEB": [
+		"DEBORAH",
+		"DEBRA"
+	],
+	"DEBORAH": [
+		"DEB",
+		"DEBBIE"
+	],
+	"DEBRA": [
+		"DEB",
+		"DEBBIE"
+	],
+	"DEBBIE": [
+		"DEBORAH",
+		"DEBRA"
+	],
+	"DEE": [
+		"DELORES"
+	],
+	"DELORES": [
+		"DEE",
+		"DELLA"
+	],
+	"DEL": [
+		"DELBERT"
+	],
+	"DELLA": [
+		"DELORES"
+	],
+	"DENNIE": [
+		"DENNIS"
+	],
+	"DENNIS": [
+		"DENNIE",
+		"DENNISON",
+		"DENNY"
+	],
+	"DENNISON": [
+		"DENNIS"
+	],
+	"DENNY": [
+		"DENNIS"
+	],
+	"DICK": [
+		"RICHARD"
+	],
+	"RICHARD": [
+		"DICK",
+		"RICH",
+		"RICHIE",
+		"RICK",
+		"RICKY"
+	],
+	"DOLLY": [
+		"DOROTHY"
+	],
+	"DOROTHY": [
+		"DOLLY",
+		"DORA",
+		"DOT",
+		"DOTTIE",
+		"DOTTY"
+	],
+	"DOM": [
+		"DOMENIC",
+		"DOMINICO"
+	],
+	"DOMENIC": [
+		"DOM"
+	],
+	"DOMINICO": [
+		"DOM"
+	],
+	"DON": [
+		"DONALD",
+		"DONATO"
+	],
+	"DONALD": [
+		"DON",
+		"DONNIE",
+		"DONNY"
+	],
+	"DONATO": [
+		"DON"
+	],
+	"DONNIE": [
+		"DONALD"
+	],
+	"DONNY": [
+		"DONALD"
+	],
+	"DORA": [
+		"DOROTHY",
+		"ELDORA",
+		"ISADORA"
+	],
+	"ELDORA": [
+		"DORA"
+	],
+	"ISADORA": [
+		"DORA",
+		"ISSY"
+	],
+	"DOT": [
+		"DOROTHY"
+	],
+	"DOTTIE": [
+		"DOROTHY"
+	],
+	"DOTTY": [
+		"DOROTHY"
+	],
+	"DREW": [
+		"ANDREW"
+	],
+	"ED": [
+		"EDGAR",
+		"EDMOND",
+		"EDMUND",
+		"EDUARDO",
+		"EDWARD",
+		"EDWIN"
+	],
+	"EDGAR": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDMOND": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDMUND": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDUARDO": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDWARD": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDWIN": [
+		"ED",
+		"EDDIE",
+		"EDDY"
+	],
+	"EDDIE": [
+		"EDGAR",
+		"EDMOND",
+		"EDMUND",
+		"EDUARDO",
+		"EDWARD",
+		"EDWIN"
+	],
+	"EDDY": [
+		"EDGAR",
+		"EDMOND",
+		"EDMUND",
+		"EDUARDO",
+		"EDWARD",
+		"EDWIN"
+	],
+	"EDIE": [
+		"EDITH",
+		"EDYTH",
+		"EDYTHE"
+	],
+	"EDITH": [
+		"EDIE"
+	],
+	"EDYTH": [
+		"EDIE",
+		"EDYE"
+	],
+	"EDYTHE": [
+		"EDIE",
+		"EDYE"
+	],
+	"EDYE": [
+		"EDYTH",
+		"EDYTHE"
+	],
+	"ELAINE": [
+		"ELEANOR"
+	],
+	"ELEANOR": [
+		"ELAINE",
+		"ELLEN",
+		"NORA"
+	],
+	"ELLA": [
+		"GABRIELLA"
+	],
+	"GABRIELLA": [
+		"ELLA",
+		"GABBY"
+	],
+	"ELLEN": [
+		"ELEANOR"
+	],
+	"EMILY": [
+		"AMELIA",
+		"EMELINE",
+		"EMMA"
+	],
+	"AMELIA": [
+		"EMILY"
+	],
+	"EMELINE": [
+		"EMILY",
+		"EMMA"
+	],
+	"EMMA": [
+		"EMELINE",
+		"EMILY"
+	],
+	"EVE": [
+		"GENEVIEVE"
+	],
+	"GENEVIEVE": [
+		"EVE",
+		"JEAN",
+		"JENNY"
+	],
+	"FAY": [
+		"FAITH"
+	],
+	"FAITH": [
+		"FAY"
+	],
+	"FLO": [
+		"FLORENCE"
+	],
+	"FLORENCE": [
+		"FLO",
+		"FLORA"
+	],
+	"FLORA": [
+		"FLORENCE"
+	],
+	"FRAN": [
+		"FRANCES",
+		"FRANCINE",
+		"FRANCIS"
+	],
+	"FRANCES": [
+		"FRAN",
+		"FRANCIE",
+		"FRANNIE",
+		"FRANNY"
+	],
+	"FRANCINE": [
+		"FRAN",
+		"FRANCIE",
+		"FRANNIE",
+		"FRANNY"
+	],
+	"FRANCIS": [
+		"FRAN",
+		"FRANK",
+		"FRANKIE"
+	],
+	"FRANCIE": [
+		"FRANCES",
+		"FRANCINE"
+	],
+	"FRANK": [
+		"FRANCIS",
+		"FRANKLIN"
+	],
+	"FRANKLIN": [
+		"FRANK"
+	],
+	"FRANKIE": [
+		"FRANCIS"
+	],
+	"FRANNIE": [
+		"FRANCES",
+		"FRANCINE"
+	],
+	"FRANNY": [
+		"FRANCES",
+		"FRANCINE"
+	],
+	"FRED": [
+		"ALFRED",
+		"FERDINAND",
+		"FREDERICK",
+		"FRIEDA",
+		"WINNIFRED"
+	],
+	"FERDINAND": [
+		"FRED",
+		"FREDDIE",
+		"FREDDY"
+	],
+	"FREDERICK": [
+		"FRED",
+		"FREDDIE",
+		"FREDDY"
+	],
+	"FRIEDA": [
+		"FRED",
+		"FREDDIE",
+		"FREDDY"
+	],
+	"WINNIFRED": [
+		"FRED",
+		"FREDDIE",
+		"FREDDY",
+		"WINNIE",
+		"WINNY"
+	],
+	"FREDA": [
+		"ALFREDA",
+		"FREDERICKA"
+	],
+	"ALFREDA": [
+		"FREDA",
+		"FREDDY"
+	],
+	"FREDERICKA": [
+		"FREDA"
+	],
+	"FREDDIE": [
+		"FERDINAND",
+		"FREDERICK",
+		"FRIEDA",
+		"WINNIFRED"
+	],
+	"FREDDY": [
+		"ALFREDA",
+		"FERDINAND",
+		"FREDERICK",
+		"FRIEDA",
+		"WINNIFRED"
+	],
+	"GABBY": [
+		"GABRIELLA",
+		"GABRIELLE"
+	],
+	"GABRIELLE": [
+		"GABBY"
+	],
+	"GABE": [
+		"GABRIEL"
+	],
+	"GABRIEL": [
+		"GABE"
+	],
+	"GAIL": [
+		"ABIGAIL"
+	],
+	"GENE": [
+		"EUGENE"
+	],
+	"EUGENE": [
+		"GENE"
+	],
+	"GEOFF": [
+		"GEOFFREY",
+		"JEFFREY"
+	],
+	"GEOFFREY": [
+		"GEOFF",
+		"JEFF"
+	],
+	"JEFFREY": [
+		"GEOFF",
+		"JEFF"
+	],
+	"GEORGE  GEORGINE        0.50": [
+		null
+	],
+	"null": [
+		"GEORGE  GEORGINE        0.50"
+	],
+	"GERRIE": [
+		"GERALDINE"
+	],
+	"GERALDINE": [
+		"GERRIE",
+		"GERRY",
+		"JERRY"
+	],
+	"GERRY": [
+		"GERALD",
+		"GERALDINE"
+	],
+	"GERALD": [
+		"GERRY",
+		"JERRY"
+	],
+	"GERTIE": [
+		"GERTRUDE"
+	],
+	"GERTRUDE": [
+		"GERTIE",
+		"TRUDY"
+	],
+	"GIL": [
+		"GILBERT"
+	],
+	"GINA": [
+		"REGINA"
+	],
+	"REGINA": [
+		"GINA"
+	],
+	"GRETTA": [
+		"MARGARETTA"
+	],
+	"MARGARETTA": [
+		"GRETTA",
+		"MADGE",
+		"MARGE"
+	],
+	"GUS": [
+		"AUGUSTINE",
+		"AUGUSTUS"
+	],
+	"AUGUSTINE": [
+		"GUS"
+	],
+	"AUGUSTUS": [
+		"GUS"
+	],
+	"GWEN": [
+		"GWENDOLYN"
+	],
+	"GWENDOLYN": [
+		"GWEN",
+		"WENDY"
+	],
+	"HAL": [
+		"HAROLD",
+		"HENRY"
+	],
+	"HAROLD": [
+		"HAL",
+		"HARRY"
+	],
+	"HENRY": [
+		"HAL",
+		"HANK",
+		"HARRY"
+	],
+	"HANK": [
+		"HENRY"
+	],
+	"HANNAH": [
+		"JOHANNAH"
+	],
+	"JOHANNAH": [
+		"HANNAH",
+		"JO"
+	],
+	"HARRY": [
+		"HAROLD",
+		"HENRY"
+	],
+	"HATTIE": [
+		"HARRIET"
+	],
+	"HARRIET": [
+		"HATTIE"
+	],
+	"HENNY": [
+		"HENRIETTA"
+	],
+	"HENRIETTA": [
+		"HENNY"
+	],
+	"HERB": [
+		"HERBERT"
+	],
+	"HETTY": [
+		"HESTER"
+	],
+	"HESTER": [
+		"HETTY"
+	],
+	"HIPSIE": [
+		"HIPSBIBAH"
+	],
+	"HIPSBIBAH": [
+		"HIPSIE"
+	],
+	"HUGH": [
+		"HUBERT"
+	],
+	"IGGY": [
+		"IGNATIUS"
+	],
+	"IGNATIUS": [
+		"IGGY"
+	],
+	"ISSY": [
+		"ISABEL",
+		"ISABELLA",
+		"ISABELLE",
+		"ISADORA"
+	],
+	"IZZY": [
+		"ISADORE"
+	],
+	"ISADORE": [
+		"IZZY"
+	],
+	"JAKE": [
+		"JACOB"
+	],
+	"JACOB": [
+		"JAKE",
+		"JAY"
+	],
+	"JAMIE": [
+		"BENJAMIN",
+		"JAMES"
+	],
+	"JAMES": [
+		"JAMIE",
+		"JIM",
+		"JIMMIE",
+		"JIMMY"
+	],
+	"JAN": [
+		"JANET"
+	],
+	"JANET": [
+		"JAN"
+	],
+	"JAY": [
+		"JACOB"
+	],
+	"JEAN": [
+		"GENEVIEVE"
+	],
+	"JEB": [
+		"JEBADIAH"
+	],
+	"JEBADIAH": [
+		"JEB"
+	],
+	"JEFF": [
+		"GEOFFREY",
+		"JEFFERSON",
+		"JEFFREY"
+	],
+	"JEFFERSON": [
+		"JEFF"
+	],
+	"JENNIE": [
+		"JENNIFER"
+	],
+	"JENNIFER": [
+		"JENNIE",
+		"JENNY"
+	],
+	"JENNY": [
+		"JENNIFER",
+		"GENEVIEVE"
+	],
+	"JERRY": [
+		"GERALD",
+		"GERALDINE",
+		"JEREMIAH"
+	],
+	"JEREMIAH": [
+		"JERRY"
+	],
+	"JESSIE": [
+		"JESSICA"
+	],
+	"JESSICA": [
+		"JESSIE"
+	],
+	"JIM": [
+		"JAMES"
+	],
+	"JIMMIE": [
+		"JAMES"
+	],
+	"JIMMY": [
+		"JAMES"
+	],
+	"JO": [
+		"JOAN",
+		"JOANN",
+		"JOANNA",
+		"JOANNE",
+		"JOHANNA",
+		"JOHANNAH",
+		"JOSOPHINE"
+	],
+	"JOAN": [
+		"JO"
+	],
+	"JOANN": [
+		"JO"
+	],
+	"JOANNA": [
+		"JO"
+	],
+	"JOANNE": [
+		"JO"
+	],
+	"JOHANNA": [
+		"JO"
+	],
+	"JOSOPHINE": [
+		"JO",
+		"JOEY",
+		"JOSEY"
+	],
+	"JODY": [
+		"JOSEPH"
+	],
+	"JOSEPH": [
+		"JODY",
+		"JOE",
+		"JOEY"
+	],
+	"JOE": [
+		"JOSEPH",
+		"JOSHUA"
+	],
+	"JOSHUA": [
+		"JOE",
+		"JOSH"
+	],
+	"JOEY": [
+		"JOSEPH",
+		"JOSOPHINE"
+	],
+	"JOHN": [
+		"JOHANN",
+		"JONATHAN"
+	],
+	"JOHANN": [
+		"JOHN"
+	],
+	"JONATHAN": [
+		"JOHN",
+		"JON",
+		"NATHAN"
+	],
+	"JON": [
+		"JONATHAN"
+	],
+	"JOSEY": [
+		"JOSOPHINE"
+	],
+	"JOSH": [
+		"JOSHUA"
+	],
+	"JOY": [
+		"JOYCE"
+	],
+	"JOYCE": [
+		"JOY"
+	],
+	"JUDY": [
+		"JUDITH"
+	],
+	"JUDITH": [
+		"JUDY"
+	],
+	"JULIE": [
+		"JULIA"
+	],
+	"JULIA": [
+		"JULIE"
+	],
+	"KATE": [
+		"KATELIN",
+		"KATELYN",
+		"KATHERINE"
+	],
+	"KATELIN": [
+		"KATE",
+		"KAY",
+		"KAYE"
+	],
+	"KATELYN": [
+		"KATE",
+		"KAY",
+		"KAYE"
+	],
+	"KATHERINE": [
+		"KATE",
+		"KATHY",
+		"KATY",
+		"KAY",
+		"KAYE"
+	],
+	"KATHY": [
+		"KATHERINE",
+		"KATHLEEN",
+		"KATHRYN"
+	],
+	"KATHLEEN": [
+		"KATHY",
+		"KATY",
+		"LENA"
+	],
+	"KATHRYN": [
+		"KATHY"
+	],
+	"KATY": [
+		"KATHERINE",
+		"KATHLEEN"
+	],
+	"KAY": [
+		"KATELIN",
+		"KATELYN",
+		"KATHERINE"
+	],
+	"KAYE": [
+		"KATELIN",
+		"KATELYN",
+		"KATHERINE"
+	],
+	"KEN": [
+		"KENNETH"
+	],
+	"KENNETH": [
+		"KEN",
+		"KENNY"
+	],
+	"KENNY": [
+		"KENNETH"
+	],
+	"KIM": [
+		"KIMBERLEY",
+		"KIMBERLY"
+	],
+	"KIMBERLEY": [
+		"KIM"
+	],
+	"KIMBERLY": [
+		"KIM"
+	],
+	"LARRY": [
+		"LAURENCE",
+		"LAWRENCE"
+	],
+	"LAURENCE": [
+		"LARRY"
+	],
+	"LAWRENCE": [
+		"LARRY"
+	],
+	"LEE": [
+		"ELIAS"
+	],
+	"ELIAS": [
+		"LEE"
+	],
+	"LENA": [
+		"AILEEN",
+		"ARLENE",
+		"CATHLEEN",
+		"DARLENE",
+		"KATHLEEN",
+		"MAGDELINA"
+	],
+	"AILEEN": [
+		"LENA"
+	],
+	"DARLENE": [
+		"LENA"
+	],
+	"MAGDELINA": [
+		"LENA",
+		"MADGE",
+		"MAGGIE"
+	],
+	"LENNY": [
+		"LEONARD"
+	],
+	"LEONARD": [
+		"LENNY",
+		"LEO",
+		"LEON"
+	],
+	"LEO": [
+		"LEONARD"
+	],
+	"LEON": [
+		"LEONARD",
+		"NAPOLEON"
+	],
+	"NAPOLEON": [
+		"LEON"
+	],
+	"LES": [
+		"LESTER"
+	],
+	"LESTER": [
+		"LES"
+	],
+	"LIBBY": [
+		"ELIZABETH"
+	],
+	"LILLY": [
+		"LILLIAN"
+	],
+	"LILLIAN": [
+		"LILLY"
+	],
+	"LINDA": [
+		"BELINDA",
+		"MELINDA"
+	],
+	"MELINDA": [
+		"LINDA",
+		"MEL",
+		"MINDY"
+	],
+	"LISA": [
+		"MELISSA"
+	],
+	"MELISSA": [
+		"LISA",
+		"MEL",
+		"MISSY"
+	],
+	"LIZ": [
+		"ELIZABETH"
+	],
+	"LIZZIE": [
+		"ELIZABETH"
+	],
+	"LOIS": [
+		"LOUISE"
+	],
+	"LOUISE": [
+		"LOIS",
+		"LOU"
+	],
+	"LORIE": [
+		"LORETTA",
+		"LORRAINE"
+	],
+	"LORETTA": [
+		"LORIE"
+	],
+	"LORRAINE": [
+		"LORIE"
+	],
+	"LOU": [
+		"LOUIS",
+		"LOUISE",
+		"LUCINDA"
+	],
+	"LOUIS": [
+		"LOU"
+	],
+	"LUCINDA": [
+		"LOU",
+		"LUCY"
+	],
+	"LUCY": [
+		"LUCINDA"
+	],
+	"LUKE": [
+		"LUCAS",
+		"LUCIAS"
+	],
+	"LUCAS": [
+		"LUKE"
+	],
+	"LUCIAS": [
+		"LUKE"
+	],
+	"LYNN": [
+		"CAROLINE",
+		"CAROLYN"
+	],
+	"CAROLYN": [
+		"LYNN"
+	],
+	"MADDY": [
+		"MADELINE",
+		"MADELYN"
+	],
+	"MADELINE": [
+		"MADDY",
+		"MADIE",
+		"MAGGIE",
+		"MAUD"
+	],
+	"MADELYN": [
+		"MADDY",
+		"MADIE"
+	],
+	"MADGE": [
+		"MAGDELINA",
+		"MARGARETTA"
+	],
+	"MADIE": [
+		"MADELINE",
+		"MADELYN"
+	],
+	"MAGGIE": [
+		"MADELINE",
+		"MAGDELINA",
+		"MARGARET"
+	],
+	"MARGARET": [
+		"MAGGIE",
+		"MAGGY",
+		"MARGE",
+		"MARGIE",
+		"MARGY",
+		"PEGGY"
+	],
+	"MAGGY": [
+		"MARGARET"
+	],
+	"MANDY": [
+		"AMANDA"
+	],
+	"AMANDA": [
+		"MANDY"
+	],
+	"MARGE": [
+		"MARGARET",
+		"MARGARETTA"
+	],
+	"MARGIE": [
+		"MARGARET",
+		"MARJORIE"
+	],
+	"MARJORIE": [
+		"MARGIE",
+		"MARGY"
+	],
+	"MARGY": [
+		"MARGARET",
+		"MARJORIE"
+	],
+	"MARK": [
+		"MARCUS"
+	],
+	"MARCUS": [
+		"MARK"
+	],
+	"MARTY": [
+		"MARTIN"
+	],
+	"MARTIN": [
+		"MARTY"
+	],
+	"MARV": [
+		"MARVIN"
+	],
+	"MARVIN": [
+		"MARV"
+	],
+	"MATT": [
+		"MATHEW",
+		"MATTHEW"
+	],
+	"MATHEW": [
+		"MATT"
+	],
+	"MATTHEW": [
+		"MATT"
+	],
+	"MAUD": [
+		"MADELINE"
+	],
+	"MEL": [
+		"MELINDA",
+		"MELISSA"
+	],
+	"MERV": [
+		"MERVIN"
+	],
+	"MERVIN": [
+		"MERV"
+	],
+	"MICK": [
+		"MICHAEL"
+	],
+	"MICHAEL": [
+		"MICK",
+		"MICKEY",
+		"MIKE"
+	],
+	"MICKEY": [
+		"MICHAEL"
+	],
+	"MIKE": [
+		"MICHAEL"
+	],
+	"MINDY": [
+		"MELINDA"
+	],
+	"MINNIE": [
+		"WILHELMINA"
+	],
+	"WILHELMINA": [
+		"MINNIE",
+		"WILMA"
+	],
+	"MISSY": [
+		"MELISSA"
+	],
+	"MITCH": [
+		"MITCHELL"
+	],
+	"MITCHELL": [
+		"MITCH"
+	],
+	"MONTY": [
+		"LAMONT"
+	],
+	"LAMONT": [
+		"MONTY"
+	],
+	"NAT": [
+		"NATHANIEL"
+	],
+	"NATHANIEL": [
+		"NAT",
+		"NATE"
+	],
+	"NATE": [
+		"NATHAN",
+		"NATHANIEL"
+	],
+	"NATHAN": [
+		"NATE",
+		"JONATHAN"
+	],
+	"NEIL": [
+		"CORNELIUS"
+	],
+	"CORNELIUS": [
+		"NEIL"
+	],
+	"NEWT": [
+		"NEWTON"
+	],
+	"NEWTON": [
+		"NEWT"
+	],
+	"NICK": [
+		"NICHOLAS"
+	],
+	"NICHOLAS": [
+		"NICK",
+		"NICKIE"
+	],
+	"NICKIE": [
+		"NICHOLAS"
+	],
+	"NORA": [
+		"ELEANOR",
+		"LENORA"
+	],
+	"LENORA": [
+		"NORA"
+	],
+	"OBIE": [
+		"OBEDIAH"
+	],
+	"OBEDIAH": [
+		"OBIE"
+	],
+	"OLLIE": [
+		"OLIVER"
+	],
+	"OLIVER": [
+		"OLLIE"
+	],
+	"OZZY": [
+		"OSWALD"
+	],
+	"OSWALD": [
+		"OZZY",
+		"WALDO"
+	],
+	"PAT": [
+		"PATRICIA",
+		"PATRICK"
+	],
+	"PATRICIA": [
+		"PAT",
+		"PATSY",
+		"PATTY",
+		"TRISHA"
+	],
+	"PATRICK": [
+		"PAT"
+	],
+	"PATSY": [
+		"PATRICIA"
+	],
+	"PATTY": [
+		"PATRICIA"
+	],
+	"PEGGY": [
+		"MARGARET"
+	],
+	"PENNY": [
+		"PENELOPE"
+	],
+	"PENELOPE": [
+		"PENNY"
+	],
+	"PETE": [
+		"PETER"
+	],
+	"PETER": [
+		"PETE"
+	],
+	"PHIL": [
+		"PHILIP",
+		"PHILLIP"
+	],
+	"PHILIP": [
+		"PHIL"
+	],
+	"PHILLIP": [
+		"PHIL"
+	],
+	"POLLY": [
+		"PAULINA"
+	],
+	"PAULINA": [
+		"POLLY"
+	],
+	"PRISSY": [
+		"PRISCILLA"
+	],
+	"PRISCILLA": [
+		"PRISSY"
+	],
+	"PRUDY": [
+		"PRUDENCE"
+	],
+	"PRUDENCE": [
+		"PRUDY"
+	],
+	"RANDY": [
+		"RANDOLPH"
+	],
+	"RANDOLPH": [
+		"RANDY"
+	],
+	"RAY": [
+		"RAYMOND"
+	],
+	"RAYMOND": [
+		"RAY"
+	],
+	"REBA": [
+		"REBECCA"
+	],
+	"REGGIE": [
+		"REGINALD"
+	],
+	"REGINALD": [
+		"REGGIE"
+	],
+	"RENA": [
+		"IRENE"
+	],
+	"IRENE": [
+		"RENA"
+	],
+	"RICH": [
+		"ALDRICH",
+		"RICHARD"
+	],
+	"ALDRICH": [
+		"RICH",
+		"RICHIE"
+	],
+	"RICHIE": [
+		"ALDRICH",
+		"RICHARD"
+	],
+	"RICK": [
+		"DERICK",
+		"RICARDO",
+		"RICHARD"
+	],
+	"DERICK": [
+		"RICK",
+		"RICKY"
+	],
+	"RICARDO": [
+		"RICK"
+	],
+	"RICKY": [
+		"BRODERICK",
+		"DERICK",
+		"RICHARD"
+	],
+	"ROB": [
+		"ROBERT",
+		"ROBERTO"
+	],
+	"ROBERTO": [
+		"ROB"
+	],
+	"ROBBY": [
+		"ROBERT"
+	],
+	"ROD": [
+		"BRODERICK"
+	],
+	"RON": [
+		"AARON",
+		"RONALD",
+		"VERONICA"
+	],
+	"AARON": [
+		"RON",
+		"RONNIE"
+	],
+	"RONALD": [
+		"RON",
+		"RONNIE",
+		"RONNY"
+	],
+	"VERONICA": [
+		"RON",
+		"RONNIE",
+		"RONNY"
+	],
+	"RONNIE": [
+		"AARON",
+		"RONALD",
+		"VERONICA"
+	],
+	"RONNY": [
+		"RONALD",
+		"VERONICA"
+	],
+	"ROSE": [
+		"ROSABEL",
+		"ROSABELLA",
+		"ROSALYN",
+		"ROSEANN",
+		"ROSEANNA",
+		"ROXANNA",
+		"ROXANNE"
+	],
+	"ROSALYN": [
+		"ROSE",
+		"ROZ"
+	],
+	"ROSEANN": [
+		"ROSE"
+	],
+	"ROSEANNA": [
+		"ROSE"
+	],
+	"ROZ": [
+		"ROSABEL",
+		"ROSABELLA",
+		"ROSALYN"
+	],
+	"RUBE": [
+		"REUBEN"
+	],
+	"REUBEN": [
+		"RUBE"
+	],
+	"RUDY": [
+		"RUDOLPH"
+	],
+	"RUDOLPH": [
+		"RUDY"
+	],
+	"RUSS": [
+		"RUSSELL"
+	],
+	"RUSSELL": [
+		"RUSS",
+		"RUSTY"
+	],
+	"RUSTY": [
+		"RUSSELL"
+	],
+	"SAL": [
+		"SOLOMON"
+	],
+	"SOLOMON": [
+		"SAL"
+	],
+	"SAM": [
+		"SAMUEL"
+	],
+	"SAMUEL": [
+		"SAM",
+		"SAMMY"
+	],
+	"SAMMY": [
+		"SAMUEL"
+	],
+	"SANDRA": [
+		"CASSANDRA",
+		"SANDY"
+	],
+	"SANDY": [
+		"CASSANDRA",
+		"SANDRA"
+	],
+	"SCOTT": [
+		"PRESCOTT"
+	],
+	"PRESCOTT": [
+		"SCOTT",
+		"SCOTTY"
+	],
+	"SCOTTY": [
+		"PRESCOTT"
+	],
+	"SHELLY": [
+		"MICHELLE",
+		"RACHEL",
+		"SHELTON"
+	],
+	"MICHELLE": [
+		"SHELLY"
+	],
+	"RACHEL": [
+		"SHELLY"
+	],
+	"SHELTON": [
+		"SHELLY",
+		"TONY"
+	],
+	"SHERRY": [
+		"SHIRLEY"
+	],
+	"SHIRLEY": [
+		"SHERRY"
+	],
+	"SLY": [
+		"SYLVESTER"
+	],
+	"SYLVESTER": [
+		"SLY"
+	],
+	"STELLA": [
+		"ESTELLA"
+	],
+	"ESTELLA": [
+		"STELLA"
+	],
+	"STEPH": [
+		"STEPHEN",
+		"STEVEN"
+	],
+	"STEPHEN": [
+		"STEPH",
+		"STEVE"
+	],
+	"STEVEN": [
+		"STEPH",
+		"STEVE"
+	],
+	"STEVE": [
+		"STEPHEN",
+		"STEVEN"
+	],
+	"SUE": [
+		"SUSAN",
+		"SUSANNAH"
+	],
+	"SUSAN": [
+		"SUE",
+		"SUSIE"
+	],
+	"SUSANNAH": [
+		"SUE",
+		"SUSIE"
+	],
+	"SULLY": [
+		"SULLIVAN"
+	],
+	"SULLIVAN": [
+		"SULLY",
+		"VAN"
+	],
+	"SUSIE": [
+		"SUSAN",
+		"SUSANNAH"
+	],
+	"TABBY": [
+		"TABITHA"
+	],
+	"TABITHA": [
+		"TABBY"
+	],
+	"TED": [
+		"THEODORE"
+	],
+	"THEODORE": [
+		"TED",
+		"TEDDY",
+		"THEO"
+	],
+	"TEDDY": [
+		"THEODORE"
+	],
+	"TERRY": [
+		"TERENCE"
+	],
+	"TERENCE": [
+		"TERRY"
+	],
+	"TESS": [
+		"TERESA",
+		"THERESA"
+	],
+	"TERESA": [
+		"TESS",
+		"TESSA",
+		"TESSIE"
+	],
+	"THERESA": [
+		"TESS",
+		"TESSA",
+		"TESSIE"
+	],
+	"TESSA": [
+		"TERESA",
+		"THERESA"
+	],
+	"TESSIE": [
+		"TERESA",
+		"THERESA"
+	],
+	"THAD": [
+		"THADDEUS"
+	],
+	"THADDEUS": [
+		"THAD"
+	],
+	"THEO": [
+		"THEODORE"
+	],
+	"THOM": [
+		"THOMAS",
+		"TOM",
+		"TOMMY"
+	],
+	"THOMAS": [
+		"THOM",
+		"TOM",
+		"TOMMY"
+	],
+	"TILLA": [
+		"MATILDA"
+	],
+	"MATILDA": [
+		"TILLA"
+	],
+	"TIM": [
+		"TIMOTHY"
+	],
+	"TIMOTHY": [
+		"TIM",
+		"TIMMY"
+	],
+	"TIMMY": [
+		"TIMOTHY"
+	],
+	"TINA": [
+		"AUGUSTINA",
+		"CHRISTINA",
+		"MARTINA"
+	],
+	"MARTINA": [
+		"TINA"
+	],
+	"TISH": [
+		"LATISHA",
+		"TISHA"
+	],
+	"LATISHA": [
+		"TISH",
+		"TISHA"
+	],
+	"TISHA": [
+		"TISH",
+		"LATISHA"
+	],
+	"TOBY": [
+		"TOBIAS"
+	],
+	"TOBIAS": [
+		"TOBY"
+	],
+	"TOM": [
+		"THOM",
+		"THOMAS"
+	],
+	"TOMMY": [
+		"THOM",
+		"THOMAS"
+	],
+	"TONY": [
+		"ANTHONY",
+		"SHELTON"
+	],
+	"ANTHONY": [
+		"TONY"
+	],
+	"TORI": [
+		"VICTORIA"
+	],
+	"VICTORIA": [
+		"TORI",
+		"TORIE",
+		"TORRI",
+		"TORRIE",
+		"TORY",
+		"VICKI",
+		"VICKIE",
+		"VICKY"
+	],
+	"TORIE": [
+		"VICTORIA"
+	],
+	"TORRI": [
+		"VICTORIA"
+	],
+	"TORRIE": [
+		"VICTORIA"
+	],
+	"TORY": [
+		"VICTORIA"
+	],
+	"TRISHA": [
+		"PATRICIA"
+	],
+	"TRIXIE": [
+		"BEATRICE"
+	],
+	"TRUDY": [
+		"GERTRUDE"
+	],
+	"VAL": [
+		"VALERI",
+		"VALERIE"
+	],
+	"VALERI": [
+		"VAL"
+	],
+	"VALERIE": [
+		"VAL"
+	],
+	"VAN": [
+		"SULLIVAN"
+	],
+	"VANNA": [
+		"VANESSA"
+	],
+	"VANESSA": [
+		"VANNA"
+	],
+	"VIC": [
+		"VICTOR",
+		"VINCENT",
+		"VINCENZON"
+	],
+	"VICTOR": [
+		"VIC"
+	],
+	"VINCENT": [
+		"VIC",
+		"VIN",
+		"VINCE",
+		"VINNIE"
+	],
+	"VINCENZON": [
+		"VIC"
+	],
+	"VICKI": [
+		"VICTORIA"
+	],
+	"VICKIE": [
+		"VICTORIA"
+	],
+	"VICKY": [
+		"VICTORIA"
+	],
+	"VIN": [
+		"VINCENT",
+		"VINCENZO"
+	],
+	"VINCENZO": [
+		"VIN",
+		"VINNIE"
+	],
+	"VINCE": [
+		"VINCENT",
+		"VINSON"
+	],
+	"VINSON": [
+		"VINCE"
+	],
+	"VINNIE": [
+		"VINCENT",
+		"VINCENZO"
+	],
+	"WALDO": [
+		"OSWALD"
+	],
+	"WENDY": [
+		"GWENDOLYN"
+	],
+	"WILBER": [
+		"GILBERT"
+	],
+	"WILL": [
+		"WILBUR",
+		"WILLIAM",
+		"WILSON"
+	],
+	"WILBUR": [
+		"WILL",
+		"WILLIE"
+	],
+	"WILSON": [
+		"WILL",
+		"WILLIE"
+	],
+	"WILLIE": [
+		"WILBUR",
+		"WILLIAM",
+		"WILSON"
+	],
+	"WILMA": [
+		"WILHELMINA"
+	],
+	"WINNIE": [
+		"WINNIFRED"
+	],
+	"WINNY": [
+		"WINNIFRED"
+	],
+	"WOODY": [
+		"ELWOOD"
+	],
+	"ELWOOD": [
+		"WOODY"
+	],
+	"ZACH": [
+		"ZACHARIAH"
+	],
+	"ZACHARIAH": [
+		"ZACH"
+	]
+}
